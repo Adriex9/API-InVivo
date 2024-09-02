@@ -1,0 +1,6 @@
+pip install flask-restful
+pip install mysql-connector-python pandas
+pip install databricks-sql-connector
+pip install pyodbc
+pip install sqlalchemy databricks-sql-connector
+

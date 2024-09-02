@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DELETE Request</title>
+    <style>
+        body {
+            background-color: pink;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .button-container {
+            margin-top: 20px;
+        }
+        .button-container a {
+            text-decoration: none;
+            padding: 15px 25px;
+            margin: 10px;
+            color: white;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .get-btn { background-color: red; }
+        .post-btn { background-color: yellow; color: black; }
+        .put-btn { background-color: cyan; color: black; }
+        .delete-btn { background-color: pink; color: black; }
+        .query-form {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>DELETE Request</h1>
+    <div class="query-form">
+        <form action="/delete_data" method="POST">
+            <textarea name="query" rows="4" cols="50" placeholder="Write your SQL query here..."></textarea><br>
+            <input type="submit" value="Execute">
+        </form>
+    </div>
+</body>
+</html>
