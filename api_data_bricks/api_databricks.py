@@ -3,7 +3,7 @@ import mysql.connector
 from databricks import sql
 from mysql.connector import Error
 import json
-
+#api for Databricks using access token http path and host to connect
 
 host = "adb-7710764419102719.19.azuredatabricks.net"
 http_path = "/sql/1.0/warehouses/9054e24293b2ec21"
