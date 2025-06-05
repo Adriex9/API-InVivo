@@ -21,6 +21,9 @@ The application provides **5 REST endpoints**, each targeting a specific infrast
 4. **Azure Synapse API** – Measures query execution on Azure Synapse Analytics. 
 5. **Global Benchmark API** – Simultaneously tests all three cloud platforms for comparative benchmarking. 
 
+![image](https://github.com/user-attachments/assets/166532e7-1886-4086-8567-eef10262a07f)
+
+
 --- 
 ## Tech Stack 
 - **Backend**: Python, Flask 
@@ -31,3 +34,9 @@ The application provides **5 REST endpoints**, each targeting a specific infrast
 --- 
 
 ## Frontend Preview 
+
+![image](https://github.com/user-attachments/assets/5c7c7527-842a-47d0-8bc0-535ef2a76ac8)
+
+![image](https://github.com/user-attachments/assets/63d85274-4307-43f0-a4d8-01948ad5209f)
+
+![image](https://github.com/user-attachments/assets/32a167af-8d25-450e-80d8-453b3c494fbe)
