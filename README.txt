@@ -1,12 +1,11 @@
-# 🚀 REST API for Platform Migration Benchmarking
+# REST API for Platform Migration Benchmarking
 
 This project contains a REST API developed for **Invivo** to **test and benchmark** the performance of different data storage solutions during a platform migration. The focus is on evaluating speed, reliability, and AI-friendliness of various back-end architectures.
 
-> ✅ Security across all tested platforms is implemented and managed by Invivo.
+>  Security across all tested platforms is implemented and managed by Invivo.
 
----
 
-## 📊 Project Objective
+## Project Objective
 
 Migrate and benchmark multiple data platforms to ensure optimal performance for AI-related workloads.  
 The API allows automated performance testing across:
@@ -16,9 +15,9 @@ The API allows automated performance testing across:
 - 🔷 Azure Synapse
 - 🔷 Databricks
 
----
 
-## 🔌 Available APIs
+
+## Available APIs
 
 The application provides **5 REST endpoints**, each targeting a specific infrastructure or combination:
 
@@ -30,7 +29,7 @@ The application provides **5 REST endpoints**, each targeting a specific infrast
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Python, Flask
 - **Frontend**: Lightweight UI (custom-built for usability)
@@ -39,7 +38,7 @@ The application provides **5 REST endpoints**, each targeting a specific infrast
 
 ---
 
-## 🌐 Frontend Preview
+## Frontend Preview
 
 > Add screenshots or demo images here
 
